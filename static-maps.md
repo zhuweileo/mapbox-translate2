@@ -1,15 +1,15 @@
 ---
-title: Static and print maps
-description: Learn how the Mapbox Static Images API works and how to create static maps.
+title: 静态和印刷地图
+description: 学习Mapbox Static Images API 如何工作 以及如何创建静态地图。
 image: /img/narrative/print.svg
 topics:
-  - print
+  - 印刷
 prependJs:
   - "import * as constants from '../../constants';"
   - "import Icon from '@mapbox/mr-ui/icon';"
   - "import UserAccessToken from '../../components/user-access-token';"
   - "import { DemoStatic } from '../../components/demo-static';"
-contentType: guide
+contentType: 指引
 ---
 
 Static maps are standalone images in PNG format that can be displayed on web and mobile devices without the aid of a mapping library or API. They look like an embedded map without interactivity or controls. You can request a static map from the Mapbox Static Images API by providing a few parameters, including center coordinates, zoom level, rotation, and tilt. Static maps may also include overlays like lines, markers, or polygons. **Learn how to build a Static Images API request using [the Static Images API playground](/help/interactive-tools/static-api-playground)**.

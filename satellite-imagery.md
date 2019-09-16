@@ -4,7 +4,7 @@ description: 学习卫星影像原理以及如何在你的下一个Mapbox项目�
 image: /img/narrative/satellite.svg
 topics:
   - 卫星影像
-contentType: 导航
+contentType: 指引
 ---
 
 [Mapbox Satellite](/help/glossary/mapbox-satellite) 是一种全球的高分辨率卫星影像基础地图,  [Mapbox Satellite Streets](https://www.mapbox.com/maps/satellite)则结合了 Mapbox Satellite 基础地图，以及 [Mapbox Streets](https://www.mapbox.com/maps/streets/)的矢量数据为你的地图加入上下文信息。 影像数据来源于多样化的商业数据提供商，当然也包含来自于 NASA，USGS，以及其它机构的开源数据。 它们经过色彩纠正以及混合后被融入一套 raster [tileset](/help/glossary/tileset/). 这是一篇概述卫星影像如何工作以及教你如何在你的项目中使用卫星影像的教程。
