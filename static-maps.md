@@ -12,7 +12,7 @@ prependJs:
 contentType: 指引
 ---
 
-Static maps are standalone images in PNG format that can be displayed on web and mobile devices without the aid of a mapping library or API. They look like an embedded map without interactivity or controls. You can request a static map from the Mapbox Static Images API by providing a few parameters, including center coordinates, zoom level, rotation, and tilt. Static maps may also include overlays like lines, markers, or polygons. **Learn how to build a Static Images API request using [the Static Images API playground](/help/interactive-tools/static-api-playground)**.
+静态地图是独立的PNG格式图片，可以在网页或移动设备上不依赖于地图库或者API进行展示。 它们就像嵌入了一张没有交互和控件的地图。 You can request a static map from the Mapbox Static Images API by providing a few parameters, including center coordinates, zoom level, rotation, and tilt. Static maps may also include overlays like lines, markers, or polygons. **Learn how to build a Static Images API request using [the Static Images API playground](/help/interactive-tools/static-api-playground)**.
 
 The image below was generated using the Mapbox Static Images API and can be added to a webpage using the following code:
 
